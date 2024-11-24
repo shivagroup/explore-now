@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>A</title>
+    <title>Contact-Us</title>
     <style>
         body {
             background-color: white;
@@ -29,11 +29,11 @@
     </style>
 </head>
 <body>
-    <h1>Contact Us: View & download Vcard</h1>
+    <h1>Contact Us: Company Vcards</h1>
     <div class="qr-container">
         <!-- QR Code 1 -->
         <div class="qr-box">
-            <img src="shivagroup/explore-now/SK HANDA VCARD.png" alt="QR Code 1">
+            <img src="shivagroup/explore-now/SK HANDA VCARD" alt="QR Code 1">
             <p>Name: SK Handa</p>
             <p>Design.: Group Chairman & CEO</p>
             <p>Contact Info: +91-9877240311</p>
